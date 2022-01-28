@@ -1,5 +1,6 @@
 """
     ServeMe.py / ServeMe.exe
+    Version: 1.0.0
 
     A minimalist wrapper around http.server which will serve the directory in which it is
     started, mainly design to serve local documentation.
